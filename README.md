@@ -26,3 +26,6 @@ Data Persistence: Local Storage
 
 The goal of this project is to demonstrate the ability to build a fully functional CRUD-based application using core web technologies. It showcases proficiency in DOM manipulation, event handling, and browser-based storage.
 
+🔗 Live Demo: 
+
+https://todos.ccbp.tech/
