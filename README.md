@@ -28,4 +28,4 @@ The goal of this project is to demonstrate the ability to build a fully function
 
 🔗 Live Demo: 
 
-https://todos.ccbp.tech/
+👉 [Click here to view the live app](https://ibrahim9492.github.io/Todos-App/)
